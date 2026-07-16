@@ -1,0 +1,17 @@
+#List Processing 
+number=[]
+num = int (input ("enter ypur number")
+ number.append(num)
+print("numbers are ",number)
+
+print ("the largest number is ",max(number))
+print ("the smallest number is ",min(number))
+if number%2==0:
+print (number)
+
+if number%3==0 and number%5==0
+   print (number)
+#to reverse number 
+for i in range(-1,number)
+print ("the reverse list is") 
+
